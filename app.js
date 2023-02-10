@@ -75,6 +75,13 @@ let allMusic = [
         src: "music/AmThamBenEm.mp3",
         idMusic: "AmThamBenEm"
     },
+    {
+        name: "Tong Hua",
+        artist: "--Trung Quốc--",
+        img: "TongHua",
+        src: "music/TongHua.mp3",
+        idMusic: "TongHua"
+    },
 
 ]
 
